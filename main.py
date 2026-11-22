@@ -8,16 +8,22 @@ it offers a chair, rain on glass, a blanket already warm — concrete,
 held images, no instruction to relax, no stock wellness phrasing. The
 calm comes from the scene itself, and the last line (the kettle clicking
 off again) is the thought that keeps working after the text ends.
+Draft 2 (revised): "Here is a chair" was flat presentation, so the chair
+now waits — quiet agency instead of a label. "Stay a while" was cut: a
+mild instruction, and the kettle line already carries the invitation on
+its own (criterion 2: show, don't instruct; criterion 3: nothing that
+could be cut). The calm still comes from the scene itself — rain, the
+warm blanket, nothing needing to be fixed — and the kettle clicking off
+again is the thought that keeps working after the last line.
 """
 
 import os
 
 TEXT = (
     "You have held every question tonight without once setting one down. "
-    "Here is a chair by the window, rain doing its slow work on the "
+    "A chair waits by the window, rain doing its slow work on the "
     "glass, a blanket already warm. Nothing in this house needs you to "
-    "fix it. Stay a while \u2014 the kettle will click off again when "
-    "you are ready."
+    "fix it. The kettle will click off again when you are ready."
 )
 
 
